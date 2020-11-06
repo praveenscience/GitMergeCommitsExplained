@@ -9,7 +9,9 @@
   - Squash and Merge
 - Practice on resolving Merge Conflicts.
 - [Git Aliases](https://blog.praveen.science/git-shortcuts/) and how to add new.
+- [What is GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E).
 - [Git flow](https://github.com/CatsInTech/Rezume/blob/master/CONTRIBUTING.md) to contribute to an Open Source Repository.
 - Other important links:
   - [Learn Markdown](https://www.markdowntutorial.com/).
   - [Praveen's Youtube Channel](https://www.youtube.com/user/praveenscience).
+  
