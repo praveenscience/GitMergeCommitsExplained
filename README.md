@@ -7,7 +7,7 @@
   - Merge Commit
   - Rebase and Merge
   - Squash and Merge  
-  <a href="https://drive.google.com/uc?export=view&id=1TqQEmimySSZtcFO2tWBBEdgGmlDUizZr"><img src="https://drive.google.com/uc?export=view&id=1TqQEmimySSZtcFO2tWBBEdgGmlDUizZr" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />  
+  - ![Merges](https://i.imgur.com/moUcZow.png)
 - Practice on resolving Merge Conflicts.
 - [Git Aliases](https://blog.praveen.science/git-shortcuts/) and how to add new.
 - [Git flow](https://github.com/CatsInTech/Rezume/blob/master/CONTRIBUTING.md) to contribute to an Open Source Repository.
