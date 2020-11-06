@@ -1,6 +1,8 @@
 # Git and GitHub Learnings.
 
 - Introduction to Version Control System and it's concepts.
+- Difference between Git and Github\
+ Git is a version control system (VCS) a kind of tool where we store all the data (repository) related work we add while working on a project whereas Github is just   a service provider to store all the repository and share across other users.
 - Couple of Basic Git Commands.
 - Git Workflow.
 - Different types of merging code in GitHub namely:
