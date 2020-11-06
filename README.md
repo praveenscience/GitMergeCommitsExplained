@@ -6,7 +6,8 @@
 - Different types of merging code in GitHub namely:
   - Merge Commit
   - Rebase and Merge
-  - Squash and Merge
+  - Squash and Merge  
+  - ![Merges](https://i.imgur.com/moUcZow.png)
 - Practice on resolving Merge Conflicts.
 - [Git Aliases](https://blog.praveen.science/git-shortcuts/) and how to add new.
 - [What is GitHub](https://www.youtube.com/watch?v=w3jLJU7DT5E).
